@@ -1,4 +1,4 @@
-study-ruby
+trial-ruby
 ==========
 
 準備
